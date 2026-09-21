@@ -1,0 +1,1 @@
+if (-not (Test-Path $PROFILE)) { New-Item -ItemType File -Path $PROFILE -Force | Out-Null }; Add-Content -Path $PROFILE -Value ('Remove-Item Alias:gp -Force -ErrorAction SilentlyContinue' + "`n" + 'function gp { cd "C:\Users\vicks\2027 CF"; git add .; git push }'); . $PROFILE
