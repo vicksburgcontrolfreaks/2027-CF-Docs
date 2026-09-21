@@ -115,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +175,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,9 +201,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "bdc04529c34bad16",
+  "active": "7c5d3cf826a5dd8b",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "Welcome.md"
+    "Welcome.md",
+    "New Text Document.txt"
   ]
 }
